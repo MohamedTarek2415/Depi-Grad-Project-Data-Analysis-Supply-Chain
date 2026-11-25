@@ -13,10 +13,10 @@ This project analyzes a supply chain dataset using Power BI. It covers cleaning 
 
 1. Ahmed Adel Nageib mahmoud (Team Leader)
 2. Mohamed Tarek Mohamed Sayed
-3. Omar Samir
-4. Ibrahim
+3. Omar Ahmed Mohammed Samir
+4. Ibrahim Hasanin Gomaa Abualala
 5. Kareem Mohamed Ahmed Niazy
-6. Adham
+6. Adham Mahmoud Ibrahim Elsanter
 
 ## 4. Work Plan
 
