@@ -3,7 +3,7 @@
 
 ## 1. Project Name
 
-Data Analysis
+Supply Chain Analysis
 
 ## 2. Project Idea
 
