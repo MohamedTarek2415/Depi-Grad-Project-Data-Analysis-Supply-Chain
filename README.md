@@ -36,7 +36,7 @@ This project analyzes a supply chain dataset using Power BI. It covers cleaning 
 | **Omar Samir** | Visualization & Data Modeling |
 | **Ibrahim** | Analysis Questions |
 | **Adham** | Visualization |
-| **Kareem Niazy** | Visualization |
+| **Kareem Niazy** | DAX Measures |
 
 ## 6. KPIs
 
